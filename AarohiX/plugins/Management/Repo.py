@@ -24,12 +24,12 @@ async def start(_, msg):
           InlineKeyboardButton("⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/AAROHI_SUPPORT_CHAT"),
-          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/dil_sagar_121"),
+          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/BOT_SUPPORTGROUP"),
+          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/ll_RADHE7_ll"),
         ],
         [
-          InlineKeyboardButton("ᴠ1 ᴍᴜsɪᴄ", url=f"https://github.com/stkeditz/AAROHIxMUSIC"),
-          InlineKeyboardButton("︎ᴠ2 ᴍᴜsɪᴄ", url=f"https://github.com/stkeditz/AAROHIxMUSICv2"),
+          InlineKeyboardButton("ᴠ1 ᴍᴜsɪᴄ", url=f"https://t.me/RADHE_MUSIC_ROBOT"),
+          InlineKeyboardButton("︎ᴠ2 ᴍᴜsɪᴄ", url=f"https://t.me/ZEUS_MUSIC_ROBOT"),
         ],
         [
           InlineKeyboardButton("ᴍᴀñᴀɢᴇᴍᴇɴᴛ", url=f"https://github.com/BadshahAk/AnsiRobot"),
@@ -50,9 +50,9 @@ async def start(_, msg):
         [
           InlineKeyboardButton("ᴅɪʟ ғᴇᴇʟɪɴɢs", url=f"https://t.me/Dil_Feelings_Will"),
           InlineKeyboardButton("ʟᴏᴠᴇ ғᴇᴇʟɪɴɢs", url=f"https://t.me/LOVE_FEELINGS_WILL_121"),
-        ],
+        ], 
         [
-          InlineKeyboardButton("ᴅɪʟ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/alonegroup121"),
+          InlineKeyboardButton("ᴅɪʟ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/BOT_SUPPORTGROUP"),
         ]
     ]
     
