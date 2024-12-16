@@ -107,9 +107,9 @@ async def close_menu(_, CallbackQuery):
 #-------------------------------DONT USE------------------------------------#
 
 #@app.on_message(
-#    filters.command("di")
+#    filters.command("Radhe")
 #    & filters.private
-#    & filters.user(5465943450)
+#    & filters.user(6726372149)
 #   )
 #async def help(client: Client, message: Message):
 #   await message.reply_photo(
