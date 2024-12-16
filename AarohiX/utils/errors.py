@@ -9,7 +9,7 @@ from pyrogram.types import CallbackQuery
 from AarohiX import app
 
 
-LOG_CHANNEL = ("LOG_CHANNEL", "https://t.me/alonegroup121")
+LOG_CHANNEL = ("LOG_CHANNEL", "https://t.me/ll_BOTCHAMBER_ll")
 
 
 
